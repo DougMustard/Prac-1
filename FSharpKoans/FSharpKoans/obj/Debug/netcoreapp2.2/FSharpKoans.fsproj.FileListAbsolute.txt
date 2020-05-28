@@ -1,0 +1,26 @@
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\FSharpKoans.deps.json
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\FSharpKoans.runtimeconfig.json
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\FSharpKoans.runtimeconfig.dev.json
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\FSharpKoans.dll
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\FSharpKoans.pdb
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\obj\Debug\netcoreapp2.2\FSharpKoans.fsprojAssemblyReference.cache
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\obj\Debug\netcoreapp2.2\FSharpKoans.AssemblyInfoInputs.cache
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\obj\Debug\netcoreapp2.2\FSharpKoans.AssemblyInfo.fs
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\obj\Debug\netcoreapp2.2\FSharpKoans.dll
+J:\CSC 302\F#\prac1\FSharpKoans\FSharpKoans\obj\Debug\netcoreapp2.2\FSharpKoans.pdb
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\FSharpKoans.deps.json
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\FSharpKoans.runtimeconfig.json
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\FSharpKoans.runtimeconfig.dev.json
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\FSharpKoans.dll
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\bin\Debug\netcoreapp2.2\FSharpKoans.pdb
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\obj\Debug\netcoreapp2.2\FSharpKoans.fsprojAssemblyReference.cache
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\obj\Debug\netcoreapp2.2\FSharpKoans.AssemblyInfoInputs.cache
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\obj\Debug\netcoreapp2.2\FSharpKoans.AssemblyInfo.fs
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\obj\Debug\netcoreapp2.2\FSharpKoans.dll
+F:\ComSci\prac1\FSharpKoans\FSharpKoans\obj\Debug\netcoreapp2.2\FSharpKoans.pdb
